@@ -9,7 +9,7 @@ Welcome to my GitHub repository! I'm a passionate software engineer who loves br
 **User-Centric**: My goal is to create software that enhances the user experience. I put myself in the user's shoes to create intuitive and meaningful solutions. From using other applications, I've seen that poor software development drives away customers. This is what I keep in mind.
 
 # 📬 Let's Connect
-<a href="https://charlestrangay.com/">
+<a target="_blank" href="https://charlestrangay.com/">
  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"> 
 </a>
 
